@@ -1,0 +1,25 @@
+_repo: Parodies-of-the-Works-of-English-and-American-Authors-Vol-I_62396
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Hamilton, Walter
+    birthdate: 1844
+    deathdate: 1899
+    gutenberg_agent_id: '41268'
+    url: http://www.gutenberg.org/2009/agents/41268
+description: Parodies of the poems of Alfred, Lord Tennyson, Henry Wadsworth Longfellow,
+  Bret Harte, Thomas Hood, and the Reverend C. Wolfe.
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Parodies'
+- GITenberg
+title: Parodies of the Works of English and American Authors, Vol. I
+url: http://www.gutenberg.org/ebooks/62396
